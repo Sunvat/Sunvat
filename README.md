@@ -22,4 +22,10 @@ Outside of work, I’m also a half marathon enthusiast, always pushing my limits
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about ArcGIS, Python and R.
 - 😄 Pronouns: he/him
-- Resume 
+
+  <hr>
+  <h3>Education</h3>
+University Of British Columbia
+Kelowna, Canada
+BSc Computer Science with Data Science Minor (2019-2024)
+Cumulative GPA: 3.5
