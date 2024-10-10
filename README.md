@@ -35,4 +35,6 @@ Outside of work, I’m also a half marathon enthusiast, always pushing my limits
 <li>Cumulative GPA: 3.5</li>
 
 </ul>
-
+<ul>
+  **_Relevant Coursework:_** 
+  Machine Learning, Advanced Data Analytics, Applied Linear Algebra, Database Implementaition, Network Science,  Statistical Methods and Analysis</ul>
