@@ -24,7 +24,7 @@ Outside of work, I’m also a half marathon enthusiast, always pushing my limits
 - 😄 Pronouns: he/him
 
   <hr>
-  <h3>Education</h3>
+  <section><h3>Education</h3>
   <hr>
 <br>**University Of British Columbia**
 <br>
@@ -38,3 +38,4 @@ Outside of work, I’m also a half marathon enthusiast, always pushing my limits
 
 Relevant Coursework:<br> 
 Machine Learning, Advanced Data Analytics, Applied Linear Algebra, Database Implementaition, Network Science,  Statistical Methods and Analysis
+</section>
