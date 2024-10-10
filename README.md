@@ -24,7 +24,7 @@ Outside of work, I’m also a half marathon enthusiast, always pushing my limits
 - 😄 Pronouns: he/him
 
   <hr>
-  <section><h3>Education</h3>
+ ### Education
   <hr>
 <br>**University Of British Columbia**
 <br>
