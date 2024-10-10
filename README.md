@@ -42,6 +42,6 @@ Machine Learning, Advanced Data Analytics, Applied Linear Algebra, Database Impl
 
 ### Projects
 <ul>
- <li>Glohaven Emergency Managment System</li>
+ <li><a href="https://github.com/Sunvat/GEMS-C">Glohaven Emergency Managment System</a></li>
  <li><a href="https://storymaps.arcgis.com/stories/dcb12f2a4b8044288428523ec4e7a1fe">GIS Analyst: Noise Pollution Spatial Analysis.</a></li>
 </ul>
