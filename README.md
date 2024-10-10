@@ -25,7 +25,7 @@ Outside of work, I’m also a half marathon enthusiast, always pushing my limits
 
   <hr>
   <h3>Education</h3>
-University Of British Columbia
-Kelowna, Canada
-BSc Computer Science with Data Science Minor (2019-2024)
-Cumulative GPA: 3.5
+<br>University Of British Columbia
+<br>Kelowna, Canada
+<br>BSc Computer Science with Data Science Minor (2019-2024)
+<br>Cumulative GPA: 3.5
