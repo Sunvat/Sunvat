@@ -23,6 +23,7 @@ Outside of work, I’m also a half marathon enthusiast, always pushing my limits
 - 💬 Ask me about ArcGIS, Python and R.
 - 😄 Pronouns: he/him
 <hr>
+
  ### Education
 <br>**University Of British Columbia**
 <br>
