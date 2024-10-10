@@ -22,10 +22,8 @@ Outside of work, I’m also a half marathon enthusiast, always pushing my limits
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about ArcGIS, Python and R.
 - 😄 Pronouns: he/him
-
-  <hr>
+<hr>
  ### Education
-  <hr>
 <br>**University Of British Columbia**
 <br>
 **_Kelowna, Canada_**
