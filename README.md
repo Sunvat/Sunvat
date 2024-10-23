@@ -36,7 +36,7 @@ Outside of work, I’m also a half marathon enthusiast, always pushing my limits
 </ul>
 
 Relevant Coursework:<br> 
-Machine Learning, Advanced Data Analytics, Applied Linear Algebra, Database Implementaition, Network Science,  Statistical Methods and Analysis
+Machine Learning, Advanced Data Analytics, Applied Linear Algebra, Database Implementaition, Network Science,  Statistical Methods and Analysis, Geospatial Analysis, GIS
 
 <hr>
 
